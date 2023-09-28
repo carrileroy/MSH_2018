@@ -1,4 +1,4 @@
 # MSH_2018
-Data from Ecosphere article; Mount St Helens 2018 leaf litter decomposition study by LeRoy et al. published in 2020. 
+Data from "Plant sex influences aquatic-terrestrial interactions" LeRoy et al. 2020, Ecosphere, Vol 11(1), e02994; Mount St Helens 2018 willow leaf litter decomposition study. 
 
-If you would like to use any of these data for subsequent analyses or meta-analyses, please contact Dr. Carri LeRoy at LeRoyC@evergreen.edu. Failure to do so is a scientific ethics violation.
+These data are available for subsequent analyses or meta-analyses. It would be great if you could let Dr. Carri LeRoy at LeRoyC@evergreen.edu know more about your research - Thanks!
